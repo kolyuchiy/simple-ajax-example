@@ -1,0 +1,29 @@
+
+POST /services/simple/test.php HTTP/1.1
+Host: freedomnet.ru
+User-Agent: Mozilla/5.0 (Windows; U; Windows NT 5.0; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7
+Accept: text/xml,application/xml,application/xhtml+xml,text/html;q=0.9,text/plain;q=0.8,image/png,*/*;q=0.5
+Accept-Language: en-us,en;q=0.5
+Accept-Encoding: gzip,deflate
+Accept-Charset: ISO-8859-1,utf-8;q=0.7,*;q=0.7
+Keep-Alive: 300
+Connection: keep-alive
+Content-Type: text/xml
+Content-Length: 1
+Pragma: no-cache
+Cache-Control: no-cache
+
+5
+
+HTTP/1.x 200 OK
+Date: Wed, 09 Nov 2005 11:40:36 GMT
+Server: Apache/2.0.54
+X-Powered-By: PHP/5.0.5
+Content-Length: 2
+Keep-Alive: timeout=10, max=100
+Connection: Keep-Alive
+Content-Type: text/html; charset=WINDOWS-1251
+Content-Language: ru
+
+25
+
